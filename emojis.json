@@ -3107,6 +3107,12 @@
     "fitzpatrick_scale": false,
     "category": "food_and_drink"
   },
+  "mango": {
+    "keywords": ["fruit", "food", "tropical"],
+    "char": "🥭",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
   "avocado": {
     "keywords": ["fruit", "food"],
     "char": "🥑",
@@ -3161,6 +3167,12 @@
     "fitzpatrick_scale": false,
     "category": "food_and_drink"
   },
+  "leafy_greens": {
+    "keywords": ["food", "vegetable", "plant", "bok choy", "cabbage", "kale", "lettuce"],
+    "char": "🥬",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
   "sweet_potato": {
     "keywords": ["food", "nature"],
     "char": "🍠",
@@ -3194,6 +3206,12 @@
   "baguette_bread": {
     "keywords": ["food", "bread", "french"],
     "char": "🥖",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
+  "bagel": {
+    "keywords": ["food", "bread", "bakery", "schmear"],
+    "char": "🥯",
     "fitzpatrick_scale": false,
     "category": "food_and_drink"
   },
@@ -3242,6 +3260,12 @@
   "meat_on_bone": {
     "keywords": ["good", "food", "drumstick"],
     "char": "🍖",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
+  "bone": {
+    "keywords": ["skeleton"],
+    "char": "🦴",
     "fitzpatrick_scale": false,
     "category": "food_and_drink"
   },
@@ -3431,6 +3455,18 @@
     "fitzpatrick_scale": false,
     "category": "food_and_drink"
   },
+  "cupcake": {
+    "keywords": ["food", "dessert", "bakery", "sweet"],
+    "char": "🧁",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
+  "moon_cake": {
+    "keywords": ["food", "autumn"],
+    "char": "🥮",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
   "birthday": {
     "keywords": ["food", "dessert", "cake"],
     "char": "🎂",
@@ -3566,6 +3602,12 @@
   "baby_bottle": {
     "keywords": ["food", "container", "milk"],
     "char": "🍼",
+    "fitzpatrick_scale": false,
+    "category": "food_and_drink"
+  },
+  "salt": {
+    "keywords": ["condiment", "shaker"],
+    "char": "🧂",
     "fitzpatrick_scale": false,
     "category": "food_and_drink"
   },
